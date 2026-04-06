@@ -1,9 +1,24 @@
-# MetaMask
+# cks-code
 
-The web3 crypto wallet and browser extension!
+Welcome to the **cks-code** GitHub organization!
 
-If you want to report a security issue, please [submit it securely on our HackerOne bounty program](https://hackerone.com/metamask?type=team).
+This organization hosts a collection of repositories for our projects and components.
 
-You can find the code for our various products and components in this org.
+## Community & Contributing
 
-For general information, visit [metamask.io](https://metamask.io).
+We value open collaboration and welcome contributions. Before getting involved, please review our community standards:
+
+- 📋 [Code of Conduct](../CODE_OF_CONDUCT.md) — Standards for participation in our community
+- 🔒 [Security Policy](../SECURITY.md) — How to responsibly report security vulnerabilities
+
+## Workflow Templates
+
+We provide reusable [workflow templates](../workflow-templates/) to help standardize CI/CD across repositories:
+
+- **Build, Lint, and Test** — Automated build, lint, and test pipeline
+- **Create Release Pull Request** — Automate the creation of release pull requests
+- **Publish Release** — Publish a new release when a release PR is merged
+
+## Support
+
+If you have questions or need help, feel free to open an issue in the relevant repository.
